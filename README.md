@@ -16,5 +16,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-- 🌱 Interested in computer system ad architechure
+- 🌱 Interested in computer system and architechure
 - 🤔 Busy with my course projects

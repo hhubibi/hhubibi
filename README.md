@@ -16,7 +16,7 @@
 - 🌱 Interested in computer system and architechure
 - 😄 Want to be a system designer in the future
 
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=hhubibi&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hhubibi&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 #### Recent plan：
 - [ ] Finish MIT 6.S081 labs

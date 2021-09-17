@@ -15,6 +15,7 @@
 
 - 🌱 Interested in computer system and architechure
 - 😄 Want to be a system designer in the future
+- 🔭 I’m currently working in ByteDance as a Infrastructure Engineer Intern
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hhubibi&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
@@ -23,4 +24,4 @@
 - [ ] Write a unix like kernel using rust
 - [ ] CMU 15-445
 - [ ] MIT 6.824
-- [ ] Look for a system internship
+- [x] Look for a system internship
